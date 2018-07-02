@@ -21,6 +21,13 @@
         <BehaviorDescription name="behavior" src="bait" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="point_right" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="point_left" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="shy" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="impressive" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="explain_pointing" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="point_to_lobby" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="point_to_black_square" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="look_ahead" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="longer" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
     <Resources />

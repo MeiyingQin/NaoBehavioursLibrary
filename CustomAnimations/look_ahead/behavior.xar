@@ -15,7 +15,7 @@
             <BehaviorLayer name="behavior_layer1">
                 <BehaviorKeyframe name="keyframe1" index="1">
                     <Diagram>
-                        <Box name="instruction_demo" id="1" localization="8" tooltip="" x="228" y="94">
+                        <Box name="look_ahead" id="1" localization="8" tooltip="" x="216" y="103">
                             <bitmap>media/images/box/box-timeLine.png</bitmap>
                             <script language="4">
                                 <content>
@@ -26,11 +26,11 @@
                             <Input name="onStart" type="1" type_size="1" nature="2" inner="0" tooltip="Box behavior starts when a signal is received on this input." id="2" />
                             <Input name="onStop" type="1" type_size="1" nature="3" inner="0" tooltip="Box behavior stops when a signal is received on this input." id="3" />
                             <Output name="onStopped" type="1" type_size="1" nature="1" inner="0" tooltip="Signal sent when box behavior is finished." id="4" />
-                            <Timeline enable="1" fps="25" start_frame="1" end_frame="-1" size="80">
-                                <BehaviorLayer name="close_eyes">
+                            <Timeline enable="1" fps="25" start_frame="1" end_frame="-1" size="25">
+                                <BehaviorLayer name="eyes open">
                                     <BehaviorKeyframe name="keyframe1" index="1">
                                         <Diagram>
-                                            <Box name="Set LEDs" id="1" localization="8" tooltip="Set the intensity of the LEDs of a given group." x="153" y="96">
+                                            <Box name="Set LEDs" id="1" localization="8" tooltip="Set the intensity of the LEDs of a given group." x="189" y="48">
                                                 <bitmap>media/images/box/interaction/LED.png</bitmap>
                                                 <script language="4">
                                                     <content>
@@ -66,7 +66,7 @@
                                                     <Choice value="RightFaceLeds" />
                                                     <Choice value="RightFootLeds" />
                                                 </Parameter>
-                                                <Parameter name="Intensity (%)" inherits_from_parent="0" content_type="1" value="0" default_value="100" min="0" max="100" tooltip="Intensity all the LEDs from the group is set to." id="5" />
+                                                <Parameter name="Intensity (%)" inherits_from_parent="0" content_type="1" value="100" default_value="100" min="0" max="100" tooltip="Intensity all the LEDs from the group is set to." id="5" />
                                                 <Parameter name="Duration (s)" inherits_from_parent="0" content_type="2" value="1" default_value="1" min="0" max="60" tooltip="How much time to go to the max/min intensity in seconds." id="6" />
                                             </Box>
                                             <Link inputowner="1" indexofinput="2" outputowner="0" indexofoutput="1" />
@@ -75,12 +75,10 @@
                                 </BehaviorLayer>
                                 <ActuatorList model="nao">
                                     <ActuatorCurve name="value" actuator="HeadPitch" recordable="0" mute="0" unit="0">
-                                        <Key frame="25" value="29.0898" />
-                                        <Key frame="80" value="29.0898" />
+                                        <Key frame="25" value="-7.20952" />
                                     </ActuatorCurve>
                                     <ActuatorCurve name="value" actuator="HeadYaw" recordable="0" mute="0" unit="0">
-                                        <Key frame="25" value="-2.02391" />
-                                        <Key frame="80" value="-2.02391" />
+                                        <Key frame="25" value="1.31597" />
                                     </ActuatorCurve>
                                 </ActuatorList>
                             </Timeline>
