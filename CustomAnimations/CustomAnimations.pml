@@ -35,9 +35,12 @@
         <BehaviorDescription name="behavior" src="relax_leg" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="puzzled_1" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="laugh_3" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="sneeze" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
-    <Resources />
+    <Resources>
+        <File name="sneeze" src="sneeze/sneeze.ogg" />
+    </Resources>
     <Topics />
     <IgnoredPaths />
 </Package>
