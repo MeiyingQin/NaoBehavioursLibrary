@@ -28,6 +28,13 @@
         <BehaviorDescription name="behavior" src="point_to_black_square" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="look_ahead" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="longer" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="scratch_back_right" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="scratch_back_left" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="scratch_eye" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="scratch_leg" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="relax_leg" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="puzzled_1" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="laugh_3" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
     <Resources />
