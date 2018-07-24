@@ -15,7 +15,7 @@
             <BehaviorLayer name="behavior_layer1">
                 <BehaviorKeyframe name="keyframe1" index="1">
                     <Diagram>
-                        <Box name="look_at_pointer" id="1" localization="8" tooltip="" x="141" y="54">
+                        <Box name="bait" id="1" localization="8" tooltip="" x="180" y="84">
                             <bitmap>media/images/box/box-timeLine.png</bitmap>
                             <script language="4">
                                 <content>
@@ -26,17 +26,18 @@
                             <Input name="onStart" type="1" type_size="1" nature="2" inner="0" tooltip="Box behavior starts when a signal is received on this input." id="2" />
                             <Input name="onStop" type="1" type_size="1" nature="3" inner="0" tooltip="Box behavior stops when a signal is received on this input." id="3" />
                             <Output name="onStopped" type="1" type_size="1" nature="1" inner="0" tooltip="Signal sent when box behavior is finished." id="4" />
-                            <Timeline enable="1" fps="25" start_frame="1" end_frame="-1" size="20">
+                            <Timeline enable="1" fps="25" start_frame="1" end_frame="-1" size="15">
                                 <ActuatorList model="nao">
                                     <ActuatorCurve name="value" actuator="HeadPitch" recordable="0" mute="0" unit="0">
-                                        <Key frame="20" value="-22.7664" />
+                                        <Key frame="15" value="12.3276" />
                                     </ActuatorCurve>
                                     <ActuatorCurve name="value" actuator="HeadYaw" recordable="0" mute="0" unit="0">
-                                        <Key frame="20" value="-61.0872" />
+                                        <Key frame="15" value="-3.54353" />
                                     </ActuatorCurve>
                                 </ActuatorList>
                             </Timeline>
                             <Resource name="Head" type="Lock" timeout="1" />
+                            <Resource name="Arms" type="Lock" timeout="1" />
                         </Box>
                         <Link inputowner="1" indexofinput="2" outputowner="0" indexofoutput="2" />
                         <Link inputowner="0" indexofinput="4" outputowner="1" indexofoutput="4" />

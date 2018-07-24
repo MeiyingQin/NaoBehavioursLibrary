@@ -36,6 +36,13 @@
         <BehaviorDescription name="behavior" src="puzzled_1" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="laugh_3" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="sneeze" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="welcome_wave" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="bait_look" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="introduction_bait_look" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="everything_1" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="joy_1" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="me_7" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="you_1" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
     <Resources>
