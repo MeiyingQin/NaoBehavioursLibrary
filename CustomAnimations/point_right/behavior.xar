@@ -64,12 +64,6 @@
                                     <ActuatorCurve name="value" actuator="RWristYaw" recordable="0" mute="0" unit="0">
                                         <Key frame="20" value="-52.5617" />
                                     </ActuatorCurve>
-                                    <ActuatorCurve name="value" actuator="HeadPitch" recordable="0" mute="0" unit="0">
-                                        <Key frame="20" value="11.1598" />
-                                    </ActuatorCurve>
-                                    <ActuatorCurve name="value" actuator="HeadYaw" recordable="0" mute="0" unit="0">
-                                        <Key frame="20" value="-38.9384" />
-                                    </ActuatorCurve>
                                 </ActuatorList>
                             </Timeline>
                             <Resource name="Head" type="Lock" timeout="1" />
