@@ -15,7 +15,7 @@
             <BehaviorLayer name="behavior_layer1">
                 <BehaviorKeyframe name="keyframe1" index="1">
                     <Diagram>
-                        <Box name="look_at_assistant" id="1" localization="8" tooltip="" x="141" y="54">
+                        <Box name="look_at_corner" id="1" localization="8" tooltip="" x="146" y="52">
                             <bitmap>media/images/box/box-timeLine.png</bitmap>
                             <script language="4">
                                 <content>
@@ -29,10 +29,10 @@
                             <Timeline enable="1" fps="25" start_frame="1" end_frame="-1" size="25">
                                 <ActuatorList model="nao">
                                     <ActuatorCurve name="value" actuator="HeadPitch" recordable="0" mute="0" unit="0">
-                                        <Key frame="25" value="-37.8837" />
+                                        <Key frame="25" value="-23.2058" />
                                     </ActuatorCurve>
                                     <ActuatorCurve name="value" actuator="HeadYaw" recordable="0" mute="0" unit="0">
-                                        <Key frame="25" value="7.20472" />
+                                        <Key frame="25" value="55.5452" />
                                     </ActuatorCurve>
                                 </ActuatorList>
                             </Timeline>
