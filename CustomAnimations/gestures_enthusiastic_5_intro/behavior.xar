@@ -36,14 +36,26 @@
             <ActuatorList model="Nao">
                 <ActuatorCurve name="value" actuator="HeadYaw" recordable="1" mute="0" unit="-1">
                     <Key frame="28" value="-2.11181" />
-                    <Key frame="44" value="-0.969213" />
-                    <Key frame="67" value="-2.1997" />
+                    <Key frame="40" value="-0.881327" />
+                    <Key frame="41" value="-0.881327" />
+                    <Key frame="42" value="-0.881327" />
+                    <Key frame="44" value="-0.881327" />
+                    <Key frame="63" value="-0.881327" />
+                    <Key frame="64" value="-0.881327" />
+                    <Key frame="65" value="-0.881327" />
+                    <Key frame="67" value="-1.49656" />
                 </ActuatorCurve>
                 <ActuatorCurve name="value" actuator="HeadPitch" recordable="1" mute="0" unit="-1">
                     <Key frame="17" value="20.1" />
                     <Key frame="28" value="7.02893" />
-                    <Key frame="44" value="2.45856" />
-                    <Key frame="67" value="2.37067" />
+                    <Key frame="40" value="-38.5" />
+                    <Key frame="41" value="-38.5" />
+                    <Key frame="42" value="-38.5" />
+                    <Key frame="44" value="-38.5" />
+                    <Key frame="63" value="-38.5" />
+                    <Key frame="64" value="-38.5" />
+                    <Key frame="65" value="-38.5" />
+                    <Key frame="67" value="-38.5" />
                 </ActuatorCurve>
                 <ActuatorCurve name="value" actuator="LShoulderPitch" recordable="1" mute="0" unit="-1">
                     <Key frame="8" value="53.1721" />

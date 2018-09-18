@@ -3,8 +3,8 @@
     <Manifest src="manifest.xml" />
     <BehaviorDescriptions>
         <BehaviorDescription name="behavior" src="look_at_pointer" xar="behavior.xar" />
-        <BehaviorDescription name="behavior" src="gestures_enthusiastic_5" xar="behavior.xar" />
-        <BehaviorDescription name="behavior" src="gestures_everything_3" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="gestures_enthusiastic_5_intro" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="gestures_everything_3_intro" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="look_at_assistant" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="look_at_owner" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="stand" xar="behavior.xar" />
@@ -36,13 +36,33 @@
         <BehaviorDescription name="behavior" src="puzzled_1" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="laugh_3" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="sneeze" xar="behavior.xar" />
-        <BehaviorDescription name="behavior" src="welcome_wave" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="welcome_wave_intro" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="bait_look" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="introduction_bait_look" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="everything_1" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="joy_1" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="me_7" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="you_1" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="look_at_corner" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="look_at_owner_close_sit" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="look_at_owner_close_stand" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="point_to_corner" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="everything_4_intro" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="me_2_intro" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="me_7_intro" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="joy_1_intro" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="everything_5_intro" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="everything_1_intro" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="explain_4_intro" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="explain_2_intro" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="thanks_intro" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="yes_1_intro" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="explain_3_intro" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="explain_11_intro" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="explain_9_intro" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="explain_5_intro" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="excited_intro" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="reject_6_intro" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
     <Resources>

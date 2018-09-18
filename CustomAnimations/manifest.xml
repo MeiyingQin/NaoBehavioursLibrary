@@ -14,11 +14,11 @@
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="gestures_enthusiastic_5">
+  <behaviorContent path="gestures_enthusiastic_5_intro">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="gestures_everything_3">
+  <behaviorContent path="gestures_everything_3_intro">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
@@ -146,7 +146,7 @@
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="welcome_wave">
+  <behaviorContent path="welcome_wave_intro">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
@@ -171,6 +171,30 @@
    <permissions/>
   </behaviorContent>
   <behaviorContent path="you_1">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="me_7_intro">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="joy_1_intro">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="everything_1_intro">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="explain_4_intro">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="thanks_intro">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="excited_intro">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
