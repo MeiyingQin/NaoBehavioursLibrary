@@ -35,7 +35,7 @@
                                         <Key frame="20" value="-56.6047" />
                                     </ActuatorCurve>
                                     <ActuatorCurve name="value" actuator="LHand" recordable="0" mute="0" unit="1">
-                                        <Key frame="20" value="0.934" />
+                                        <Key frame="20" value="1" />
                                     </ActuatorCurve>
                                     <ActuatorCurve name="value" actuator="LShoulderPitch" recordable="0" mute="0" unit="0">
                                         <Key frame="20" value="20.0369" />
@@ -45,24 +45,6 @@
                                     </ActuatorCurve>
                                     <ActuatorCurve name="value" actuator="LWristYaw" recordable="0" mute="0" unit="0">
                                         <Key frame="20" value="51.0627" />
-                                    </ActuatorCurve>
-                                    <ActuatorCurve name="value" actuator="RElbowRoll" recordable="0" mute="0" unit="0">
-                                        <Key frame="20" value="23.6453" />
-                                    </ActuatorCurve>
-                                    <ActuatorCurve name="value" actuator="RElbowYaw" recordable="0" mute="0" unit="0">
-                                        <Key frame="20" value="68.3774" />
-                                    </ActuatorCurve>
-                                    <ActuatorCurve name="value" actuator="RHand" recordable="0" mute="0" unit="1">
-                                        <Key frame="20" value="0.3004" />
-                                    </ActuatorCurve>
-                                    <ActuatorCurve name="value" actuator="RShoulderPitch" recordable="0" mute="0" unit="0">
-                                        <Key frame="20" value="83.6753" />
-                                    </ActuatorCurve>
-                                    <ActuatorCurve name="value" actuator="RShoulderRoll" recordable="0" mute="0" unit="0">
-                                        <Key frame="20" value="-10.4615" />
-                                    </ActuatorCurve>
-                                    <ActuatorCurve name="value" actuator="RWristYaw" recordable="0" mute="0" unit="0">
-                                        <Key frame="20" value="5.53478" />
                                     </ActuatorCurve>
                                 </ActuatorList>
                             </Timeline>
