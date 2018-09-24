@@ -63,6 +63,7 @@
         <BehaviorDescription name="behavior" src="explain_5_intro" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="excited_intro" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="reject_6_intro" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="look_at_recorder" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
     <Resources>
