@@ -29,22 +29,22 @@
                             <Timeline enable="1" fps="25" start_frame="1" end_frame="-1" size="20">
                                 <ActuatorList model="nao">
                                     <ActuatorCurve name="value" actuator="LElbowRoll" recordable="0" mute="0" unit="0">
-                                        <Key frame="20" value="-69.9774" />
+                                        <Key frame="20" value="-80.3306" />
                                     </ActuatorCurve>
                                     <ActuatorCurve name="value" actuator="LElbowYaw" recordable="0" mute="0" unit="0">
-                                        <Key frame="20" value="-41.1468" />
+                                        <Key frame="20" value="-44.7393" />
                                     </ActuatorCurve>
                                     <ActuatorCurve name="value" actuator="LHand" recordable="0" mute="0" unit="1">
-                                        <Key frame="20" value="0" />
+                                        <Key frame="20" value="0.0196" />
                                     </ActuatorCurve>
                                     <ActuatorCurve name="value" actuator="LShoulderPitch" recordable="0" mute="0" unit="0">
-                                        <Key frame="20" value="-47.5789" />
+                                        <Key frame="20" value="-8.08845" />
                                     </ActuatorCurve>
                                     <ActuatorCurve name="value" actuator="LShoulderRoll" recordable="0" mute="0" unit="0">
-                                        <Key frame="20" value="29.6393" />
+                                        <Key frame="20" value="-16.6139" />
                                     </ActuatorCurve>
                                     <ActuatorCurve name="value" actuator="LWristYaw" recordable="0" mute="0" unit="0">
-                                        <Key frame="20" value="-49.4067" />
+                                        <Key frame="20" value="-66.6243" />
                                     </ActuatorCurve>
                                 </ActuatorList>
                             </Timeline>

@@ -28,23 +28,23 @@
                             <Output name="onStopped" type="1" type_size="1" nature="1" inner="0" tooltip="Signal sent when box behavior is finished." id="4" />
                             <Timeline enable="1" fps="25" start_frame="1" end_frame="-1" size="20">
                                 <ActuatorList model="nao">
-                                    <ActuatorCurve name="value" actuator="LElbowRoll" recordable="0" mute="0" unit="0">
-                                        <Key frame="20" value="-69.9774" />
+                                    <ActuatorCurve name="value" actuator="RElbowRoll" recordable="0" mute="0" unit="0">
+                                        <Key frame="20" value="85.8726" />
                                     </ActuatorCurve>
-                                    <ActuatorCurve name="value" actuator="LElbowYaw" recordable="0" mute="0" unit="0">
-                                        <Key frame="20" value="-41.1468" />
+                                    <ActuatorCurve name="value" actuator="RElbowYaw" recordable="0" mute="0" unit="0">
+                                        <Key frame="20" value="34.0117" />
                                     </ActuatorCurve>
-                                    <ActuatorCurve name="value" actuator="LHand" recordable="0" mute="0" unit="1">
-                                        <Key frame="20" value="0" />
+                                    <ActuatorCurve name="value" actuator="RHand" recordable="0" mute="0" unit="1">
+                                        <Key frame="20" value="0.046" />
                                     </ActuatorCurve>
-                                    <ActuatorCurve name="value" actuator="LShoulderPitch" recordable="0" mute="0" unit="0">
-                                        <Key frame="20" value="-47.5789" />
+                                    <ActuatorCurve name="value" actuator="RShoulderPitch" recordable="0" mute="0" unit="0">
+                                        <Key frame="20" value="-8.25942" />
                                     </ActuatorCurve>
-                                    <ActuatorCurve name="value" actuator="LShoulderRoll" recordable="0" mute="0" unit="0">
-                                        <Key frame="20" value="29.6393" />
+                                    <ActuatorCurve name="value" actuator="RShoulderRoll" recordable="0" mute="0" unit="0">
+                                        <Key frame="20" value="7.02893" />
                                     </ActuatorCurve>
-                                    <ActuatorCurve name="value" actuator="LWristYaw" recordable="0" mute="0" unit="0">
-                                        <Key frame="20" value="-49.4067" />
+                                    <ActuatorCurve name="value" actuator="RWristYaw" recordable="0" mute="0" unit="0">
+                                        <Key frame="20" value="82.7916" />
                                     </ActuatorCurve>
                                 </ActuatorList>
                             </Timeline>
