@@ -266,11 +266,19 @@
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="show_treat_left">
+  <behaviorContent path="show_treat_throw_left">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="show_treat_right">
+  <behaviorContent path="show_treat_throw_right">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="show_treat_drop_left">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="show_treat_drop_right">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>

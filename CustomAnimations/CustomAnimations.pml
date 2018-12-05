@@ -66,15 +66,15 @@
         <BehaviorDescription name="behavior" src="look_at_recorder" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="point_left_prepare" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="point_right_prepare" xar="behavior.xar" />
-        <BehaviorDescription name="behavior" src="show_treat_left" xar="behavior.xar" />
-        <BehaviorDescription name="behavior" src="show_treat_right" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="show_treat_throw_left" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="show_treat_throw_right" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="show_treat_drop_left" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="show_treat_drop_right" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
     <Resources>
         <File name="sneeze" src="sneeze/sneeze.ogg" />
     </Resources>
     <Topics />
-    <IgnoredPaths>
-        <Path src="show_treat_right/behavior.xar~" />
-    </IgnoredPaths>
+    <IgnoredPaths />
 </Package>
