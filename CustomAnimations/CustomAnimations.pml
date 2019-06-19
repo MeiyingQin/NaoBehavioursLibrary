@@ -72,6 +72,7 @@
         <BehaviorDescription name="behavior" src="show_treat_drop_right" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="show_treat" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="drop_treat" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="look_at_dog" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
     <Resources>
